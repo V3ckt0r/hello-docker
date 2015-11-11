@@ -20,7 +20,7 @@
 <body>
 	<img id="logo" src="logo.png" />
 	<h1><?php echo "Hello world!"; ?></h1>
-	<p><a href="v3ckt0r.github.io/index2.html">Click me"</a>if your brave. Or play a pointless <a href="v3ckt0r.github.io/canvas_cubes.html">game here</a>. hint - click the squares!</p>
+	<p><a href="v3ckt0r.github.io/index2.html">Click me"</a>if you're brave. Or play a pointless <a href="v3ckt0r.github.io/canvas_cubes.html">game here</a>. hint - click the squares!</p>
 	<?php if(!$link) { ?>
 		<h2>Can't connect to local MySQL Server!</h2>
 	<?php } else { ?>
