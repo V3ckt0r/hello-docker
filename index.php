@@ -18,7 +18,7 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo.png" />
+	<img id="logo" src="logo.gif" />
 	<h1><?php echo "Hello world!"; ?></h1>
 	<p><a href="http://v3ckt0r.github.io/index2.html">Click me"</a>if you're brave. Or play a pointless <a href="http://v3ckt0r.github.io/canvas_cubes.html">game here</a>. hint - click the squares!</p>
 	<?php if(!$link) { ?>
